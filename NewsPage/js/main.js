@@ -14,9 +14,9 @@ $.ajax({
   dataType: 'jsonp',
   success: function (json) {}
 });
+// $(document).ready(function () {
+//   $('.currensy').text(function ();
 
-$(document).ready(function () {
-  $('.').click(function () {
+//   );
 
-  });
-});
+// });
