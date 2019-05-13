@@ -3,7 +3,7 @@
 # My projects
 
 
-[NewsPage](greykkara.github.io/NewsPage/) - Новостная страница
+[NewsPage](https://greykkara.github.io/greykkara.github.io/NewsPage/) - Новостная страница
 
 
-[ToDoList](greykkara.github.io/MyToDoList/) - To Do List
+[ToDoList](https://greykkara.github.io/greykkara.github.io/NewsPage/) - To Do List
