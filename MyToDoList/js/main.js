@@ -7,8 +7,7 @@ $(document).ready(function () {
 		event.preventDefault();
 		var toAdd = $('input[name=todo__text]').val();
 		var Description = $('input[name=todo__description]').val();
-		if (toAdd === '') return;
-		if (Description === '') return;
+		if (toAdd === "" || Description === "") return;
 		$("ul").append("<li class='new__list'>" + toAdd + "<span class='close'><i class='fas fa-times'></i></span><span class='expand arrow'><i class='fas fa-angle-down'></i></span><div class='slide'><p>" + Description + "</p></div></li>");
 		$('input[name="todo__text"]').val('');
 		$('input[name="todo__description"]').val('');
