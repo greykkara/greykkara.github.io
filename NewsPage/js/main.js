@@ -5,4 +5,9 @@ $(function(){
 		$('.course-app').append(RUB);
 		$('.course-app').append(USD);
 		});
+
+		$("a").click(function(event) {
+    
+			event.preventDefault();
+	});
 });
