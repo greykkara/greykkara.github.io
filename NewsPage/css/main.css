@@ -30,6 +30,10 @@ button {
 	box-sizing: border-box;
 }
 
+.scroll-dis {
+	overflow: hidden;
+}
+
 .container {
 	width: 1000px;
 	margin: 0 auto;
