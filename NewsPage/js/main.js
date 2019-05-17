@@ -19,3 +19,12 @@ $(document).ready(function(){
 		$("html, body").toggleClass("scroll-dis");
 	});
 });
+
+var div = $('.menu-icon');
+var button = $('.menu-button');
+var menu = $('.menu-container');
+
+div.click(function(){
+	button.toggleClass('open');
+	menu.toggleClass('active');
+});
