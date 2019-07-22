@@ -3,17 +3,17 @@
 # My projects
 
 
-[NewsPage] 100% (https://greykkara.github.io/greykkara.github.io/NewsPage/) - Новостная страница
+[NewsPage](https://greykkara.github.io/greykkara.github.io/NewsPage/) - Новостная страница
 
 
-[ToDoList] 50% (https://greykkara.github.io/greykkara.github.io/MyToDoList/) - To Do List
+[ToDoList](https://greykkara.github.io/greykkara.github.io/MyToDoList/) - To Do List
 
 
-[GraduateWork] 50% (https://greykkara.github.io/greykkara.github.io/GraduateWork/) Graduate Work
+[GraduateWork](https://greykkara.github.io/greykkara.github.io/GraduateWork/) Graduate Work
 
 
 
-[test] ((https://greykkara.github.io/greykkara.github.io/shop/) Тестовое задание эврика
+[test](https://greykkara.github.io/greykkara.github.io/shop/) Тестовое задание эврика
 
 
 
