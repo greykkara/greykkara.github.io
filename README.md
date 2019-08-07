@@ -13,6 +13,4 @@
 
 
 
-[Lenoma ~50%](https://greykkara.github.io/greykkara.github.io/shop/) Lenoma
-
 
